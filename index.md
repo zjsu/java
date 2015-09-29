@@ -1,22 +1,21 @@
 ---
+comments: false
 ---
 
 # {{ site.title }}
 
 ## 目录
 
-0. _教学大纲_
-1. *绪论*
-2. **这很重要**
+1. [概述](chapters/1)
 
-> this is a
-> block quote
+## MOOC(在线课堂)
+
+- [imooc](http://www.imooc.com/course/list?c=java)
+- [coursera](https://www.coursera.org/specializations/java-object-oriented)
 
 ## 网络资源
 
-- [Linux Kernel 编码规范](https://github.com/torvalds/linux/blob/master/Documentation/zh_CN/CodingStyle)
-- [酷壳](http://coolshell.cn/)
+- [Awesome Java](https://github.com/akullpp/awesome-java)
 - [GitHub](https://github.com)
-- [Stackoverflow](http://stackoverflow.com/questions/tagged/data-structures)
-- [知乎](http://www.zhihu.com/topic/19591797)
+- [Stackoverflow](http://stackoverflow.com/questions/tagged/java)
 - [V2EX](http://v2ex.com)
