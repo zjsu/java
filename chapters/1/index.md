@@ -1,9 +1,10 @@
 ---
+title: 第1章 概述
 ---
 ## 课件
 
-[下载](chap01.ppt)
-[网络视频](http://www.imooc.com/video/1430)
+- [下载](chap01.ppt)
+- [网络视频](http://www.imooc.com/video/1430)
 
 ## 相关链接
 
