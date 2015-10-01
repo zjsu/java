@@ -11,10 +11,12 @@ comments: false
 ## MOOC(在线课堂)
 
 - [imooc](http://www.imooc.com/course/list?c=java)
+- [网易](http://mooc.study.163.com/learn/ZJU-1000002014#/learn/content)
 - [coursera](https://www.coursera.org/specializations/java-object-oriented)
 
 ## 网络资源
 
+- [在线文档](http://docs.oracle.com/javase/8/docs/api/)
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [GitHub](https://github.com)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/java)
