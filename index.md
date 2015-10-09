@@ -19,5 +19,8 @@ comments: false
 - [在线文档](http://docs.oracle.com/javase/8/docs/api/)
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [GitHub](https://github.com)
+- [LeetCode](https://leetcode.com)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/java)
+- [SegmentFault](http://segmentfault.com/t/java)
 - [V2EX](http://v2ex.com)
+- [ImportNew](http://www.importnew.com)

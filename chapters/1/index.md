@@ -9,10 +9,14 @@ title: 第1章 概述
 ## 相关链接
 
 - [维基百科](https://zh.wikipedia.org/wiki/Java)
-- [安装配置](http://jingyan.baidu.com/article/359911f508c21f57fe030638.html)
+- [Java的历史](http://www.importnew.com/9060.html)
+- [你应当知道的Java牛人 v2.0](http://www.importnew.com/5575.html)
+- [为什么我喜欢Java](http://www.importnew.com/10576.html)
+
 
 ## 工具下载
 
+- [安装配置](http://jingyan.baidu.com/article/359911f508c21f57fe030638.html)
 - **部分工具的百度云下载链接**： http://pan.baidu.com/s/1i32dwax
 - [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Eclipse](https://eclipse.org/downloads/):  强大的开源Java IDE。
