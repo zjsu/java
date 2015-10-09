@@ -13,6 +13,7 @@ title: 第1章 概述
 
 ## 工具下载
 
+- **部分工具的百度云下载链接**： http://pan.baidu.com/s/1i32dwax
 - [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Eclipse](https://eclipse.org/downloads/):  强大的开源Java IDE。
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/): 商业Java IDE，使用体验更好，社区版免费，商业版学生可申请*免费使用*。
