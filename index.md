@@ -7,6 +7,7 @@ comments: false
 ## 目录
 
 1. [概述](chapters/1)
+2. [标识符和数据类型](chapters/2)
 
 ## MOOC(在线课堂)
 
