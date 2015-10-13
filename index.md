@@ -15,9 +15,14 @@ comments: false
 - [网易](http://mooc.study.163.com/learn/ZJU-1000002014#/learn/content)
 - [coursera](https://www.coursera.org/specializations/java-object-oriented)
 
-## 网络资源
+## 文档
 
 - [在线文档](http://docs.oracle.com/javase/8/docs/api/)
+- [Zeal(Windows、Linx)](https://zealdocs.org)
+- [Dash(Mac)](https://kapeli.com/dash)
+
+## 网络资源
+
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [GitHub](https://github.com)
 - [LeetCode](https://leetcode.com)
