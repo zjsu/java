@@ -13,6 +13,13 @@ title: 第1章 概述
 - [使用Eclipse开发Java程序](http://www.imooc.com/video/1412)
 - [MyEclipse使用简介](http://www.imooc.com/video/1414)
 
+## 常见问题
+
+- “错误: 找不到或无法加载主类”
+  请检查`CLASSPATH`的设置，看其中是否包含了`.`（当前目录）；另外，设置中使用了中文字符也是一个可能原因。
+- 编译错误
+  请不要编程时使用中文输入法，中文标点是引起错误的一大原因。
+
 ## 相关链接
 
 - [维基百科](https://zh.wikipedia.org/wiki/Java)
