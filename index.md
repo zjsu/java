@@ -8,6 +8,7 @@ comments: false
 
 1. [概述](chapters/1)
 2. [标识符和数据类型](chapters/2)
+3. [表达式和流程控制语句](chapters/3)
 
 ## MOOC(在线课堂)
 
