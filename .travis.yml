@@ -1,11 +1,13 @@
+sudo: false
 language: ruby
+cache: bundler
 rvm:
-- 2.1.1
-script: jekyll build --destination _site/java && htmlproof ./_site
+- 2.1
+script: bundle exec jekyll build --destination _site/java && bundle exec htmlproof ./_site
 
 branches:
   only:
-  - gh-pages
+    - gh-pages
 
 env:
   global:
