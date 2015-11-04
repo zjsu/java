@@ -35,6 +35,7 @@ title: 第1章 概述
 - **部分工具的百度云下载链接**：http://pan.baidu.com/s/1o6EMer4
 - [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Eclipse](https://eclipse.org/downloads/):  强大的开源Java IDE。
+- [Eclipse 版本比较](http://www.eclipse.org/downloads/compare.php)。
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/): 商业Java IDE，使用体验更好，社区版免费，商业版学生可申请*免费使用*。
 - [Atom](https://atom.io): 开源的轻量级文本编辑器。
 - [Sublime Text](http://www.sublimetext.com): 收费的轻量级文本编辑器，可试用。
