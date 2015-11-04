@@ -22,9 +22,10 @@ comments: false
 - [Zeal(Windows、Linx)](https://zealdocs.org)
 - [Dash(Mac)](https://kapeli.com/dash)
 
-## 教程
+## 教程、书
 
 - [Java教程](http://www.runoob.com/java/java-tutorial.html)
+- [Java技术手册](https://caterpillar.gitbooks.io/javase6tutorial/content/)
 
 ## 编码规范
 
