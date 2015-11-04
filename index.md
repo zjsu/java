@@ -26,6 +26,11 @@ comments: false
 
 - [Java教程](http://www.runoob.com/java/java-tutorial.html)
 
+## 编码规范
+
+- [官方编码规范](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)([PDF](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf))
+- [Google编码规范](https://google.github.io/styleguide/javaguide.html)([中文版](http://hawstein.com/posts/google-java-style.html))
+
 ## 网络资源
 
 - [Awesome Java](https://github.com/akullpp/awesome-java)
