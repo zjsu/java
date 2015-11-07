@@ -34,6 +34,7 @@ comments: false
 
 ## 网络资源
 
+- [Java资源大全](http://blog.jobbole.com/94090/)
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [GitHub](https://github.com)
 - [LeetCode](https://leetcode.com)
