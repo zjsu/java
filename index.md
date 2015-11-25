@@ -27,6 +27,7 @@ comments: false
 
 - [Java教程](http://www.runoob.com/java/java-tutorial.html)
 - [Java技术手册](https://caterpillar.gitbooks.io/javase6tutorial/content/)
+- [9本Java程序员必读的书](http://droidyue.com/blog/2014/11/30/java-programmer-must-read-these-9-books/)
 
 ## 编码规范
 
