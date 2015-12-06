@@ -10,6 +10,7 @@ comments: false
 2. [标识符和数据类型](chapters/2)
 3. [表达式和流程控制语句](chapters/3)
 4. [数组、向量和字符串](chapters/4)
+5. [进一步讨论对象和类](chapters/5)
 
 ## MOOC(在线课堂)
 
