@@ -12,6 +12,7 @@ comments: false
 4. [数组、向量和字符串](chapters/4)
 5. [进一步讨论对象和类](chapters/5)
 6. [Java语言中的异常](chapters/6)
+7. [Java的图形用户界面设计](chapters/7)
 
 ## MOOC(在线课堂)
 
